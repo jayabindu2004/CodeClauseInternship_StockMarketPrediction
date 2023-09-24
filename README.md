@@ -15,10 +15,10 @@ https://www.kaggle.com/datasets/jainilcoder/netflix-stock-price-prediction
 
 ### Skills and Tools:
 
-👉 Python for data preprocessing, model development, and evaluation.
-👉 Libraries such as Pandas, NumPy, Matplotlib, and Seaborn for data manipulation and visualization.
-👉 Deep learning frameworks like TensorFlow or PyTorch for building and training LSTM models.
-👉 Knowledge of time-series analysis and financial indicators.
+👉 Python for data preprocessing, model development, and evaluation. <br>
+👉 Libraries such as Pandas, NumPy, Matplotlib, and Seaborn for data manipulation and visualization. <br>
+👉 Deep learning frameworks like TensorFlow or PyTorch for building and training LSTM models.<br>
+👉 Knowledge of time-series analysis and financial indicators.<br>
 
 ### Snapshots
 
